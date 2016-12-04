@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{7502421D-3EAC-4ED2-A8CE-006A8D52D6A1}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TcpEchoClient\Program.cs">
+    <Files>
+      <File FileName="TcpEchoClient\Program.cs" Line="22" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TcpEchoClient PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
