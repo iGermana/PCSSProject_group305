@@ -11,10 +11,8 @@ C:\Users\EneAlicia\Desktop\NetworkingEneAliciaSøderberg\TcpEchoClient\TcpEchoCl
 C:\Users\EneAlicia\Desktop\NetworkingEneAliciaSøderberg\TcpEchoClient\TcpEchoClient\bin\Debug\TcpEchoClient.exe
 C:\Users\EneAlicia\Desktop\NetworkingEneAliciaSøderberg\TcpEchoClient\TcpEchoClient\bin\Debug\TcpEchoClient.pdb
 C:\Users\EneAlicia\Desktop\NetworkingEneAliciaSøderberg\TcpEchoClient\TcpEchoClient\obj\x86\Debug\TcpEchoClient.csprojResolveAssemblyReference.cache
-C:\Users\Ervin\Desktop\fredagsServer\TcpEchoClient\TcpEchoClient\obj\x86\Debug\TcpEchoClient.exe
-C:\Users\Ervin\Desktop\fredagsServer\TcpEchoClient\TcpEchoClient\obj\x86\Debug\TcpEchoClient.pdb
-C:\Users\Ervin\Desktop\fredagsServer\TcpEchoClient\TcpEchoClient\bin\Debug\TcpEchoClient.exe
-C:\Users\Ervin\Desktop\fredagsServer\TcpEchoClient\TcpEchoClient\bin\Debug\TcpEchoClient.pdb
-C:\Users\Ervin\Desktop\fredagsServer\TcpEchoClient\TcpEchoClient\obj\x86\Debug\TcpEchoClient.csprojResolveAssemblyReference.cache
-C:\Users\Ervin\Desktop\SondagsCodeUdes\TcpEchoClient\TcpEchoClient\obj\x86\Debug\TcpEchoClient.exe
-C:\Users\Ervin\Desktop\SondagsCodeUdes\TcpEchoClient\TcpEchoClient\obj\x86\Debug\TcpEchoClient.pdb
+C:\Users\Thelols\Downloads\TcpEchoClientWithRules\TcpEchoClient\TcpEchoClient\obj\x86\Debug\TcpEchoClient.exe
+C:\Users\Thelols\Downloads\TcpEchoClientWithRules\TcpEchoClient\TcpEchoClient\obj\x86\Debug\TcpEchoClient.pdb
+C:\Users\Thelols\Downloads\TcpEchoClientWithRules\TcpEchoClient\TcpEchoClient\bin\Debug\TcpEchoClient.exe
+C:\Users\Thelols\Downloads\TcpEchoClientWithRules\TcpEchoClient\TcpEchoClient\bin\Debug\TcpEchoClient.pdb
+C:\Users\Thelols\Downloads\TcpEchoClientWithRules\TcpEchoClient\TcpEchoClient\obj\x86\Debug\TcpEchoClient.csprojResolveAssemblyReference.cache
